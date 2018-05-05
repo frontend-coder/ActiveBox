@@ -1,0 +1,34 @@
+@import '_var.scss';
+
+.priziv_title {
+	font-family: "RalewayLight", sans-serif;
+  @include font-size(28px);
+  color: #2d3033;
+text-align: center;
+margin-bottom: 23px;
+
+}
+
+.priziv_descr {
+	font-family: "RalewaySemiBold", sans-serif;
+  @include font-size(14px);
+  color: #2d3033;
+  text-align: center;
+margin-bottom: 40px;
+
+}
+
+.priziv_button a {
+	font-family: "RalewaySemiBold", sans-serif;
+  @include font-size(13px);
+  line-height: (18px / 13px);
+  text-align: center;
+  padding: 20px 80px;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: $color_button;
+  display: inline-block;
+}
+.priziv_button {
+text-align: center;
+	}

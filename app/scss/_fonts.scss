@@ -1,0 +1,65 @@
+@import '_var.scss';
+/* font-family: "RalewaySemiBold"; */
+@font-face {
+	font-family: "RalewaySemiBold";
+	src: url("../fonts/RalewaySemiBold/RalewaySemiBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewaySemiBold/RalewaySemiBold.woff") format("woff"),
+	url("../fonts/RalewaySemiBold/RalewaySemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: "RalewayRegular";
+	src: url("../fonts/RalewayRegular/RalewayRegular.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayRegular/RalewayRegular.woff") format("woff"),
+	url("../fonts/RalewayRegular/RalewayRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "RalewayLight";
+	src: url("../fonts/RalewayLight/RalewayLight.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayLight/RalewayLight.woff") format("woff"),
+	url("../fonts/RalewayLight/RalewayLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "RalewayBold";
+	src: url("../fonts/RalewayBold/RalewayBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/RalewayBold/RalewayBold.woff") format("woff"),
+	url("../fonts/RalewayBold/RalewayBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenSansBold";
+	src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+	url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Cardoitalic";
+	src: url("../fonts/Cardo/cardoitalic.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Cardo/cardoitalic.woff") format("woff"),
+	url("../fonts/Cardo/cardoitalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "elegant-theme-line";
+	src: url("../fonts/elegant-theme-line/elegant-theme-line.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/elegant-theme-line/elegant-theme-line.woff") format("woff"),
+	url("../fonts/elegant-theme-line/elegant-theme-line.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
